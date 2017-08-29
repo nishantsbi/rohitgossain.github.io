@@ -14,3 +14,5 @@ d) Time Series on Web Data - https://rohitgossain.github.io/TimeseriesonWebData.
 
 e) Presentation at MeasureCamp SF : Delivering personalized experience by applying data science on digital data.
 https://github.com/rohitgossain/rohitgossain.github.io/blob/master/MeasureCamp%20SF.pdf
+
+f) Python based Machine Learning(very basic) - https://github.com/rohitgossain/rohitgossain.github.io/blob/master/Python-MachineLearning-Basics.ipynb
