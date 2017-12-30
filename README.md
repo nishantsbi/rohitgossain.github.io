@@ -2,8 +2,10 @@
 
 <br> We will solve real digital analytics problems with R and cover all following topics with examples.</br> 
 
+Overview about BI and Nearly Real Time Analysis - https://github.com/rohitgossain/rohitgossain.github.io/blob/master/Operational%20Intelligence.pdf
+
 <br>Contents :- </br>
- 
+
 a) Using Spark with R (Big Data) - https://github.com/rohitgossain/rohitgossain.github.io/blob/master/SparklyR.ipynb
 
 b) Basic Time Series - https://github.com/rohitgossain/rohitgossain.github.io/blob/master/TimeSeriesAnalysis.ipynb
