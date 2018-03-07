@@ -21,6 +21,5 @@ d) Basic Time Series - https://github.com/rohitgossain/rohitgossain.github.io/bl
 
 e) Using Spark with R (Big Data) - https://github.com/rohitgossain/rohitgossain.github.io/blob/master/SparklyR.ipynb
 
-
-
-
+f) Featurelabs (MIT Students) built Feature tools for automated Feature Engineering for Machine Learning Projects -
+https://github.com/rohitgossain/rohitgossain.github.io/blob/master/FeatureEngineering.ipynb
