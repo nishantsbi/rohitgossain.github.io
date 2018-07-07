@@ -4,10 +4,14 @@
 
 <br>Presentations - </br>
 
-Overview about BI and Nearly Real Time Analysis (Big Data Innovation Conference, 2012) - https://github.com/rohitgossain/rohitgossain.github.io/blob/master/Operational%20Intelligence.pdf
+AI Powered future of Marketing (AI and Digital Innovation Conference, SF, 2018) - 
+https://github.com/rohitgossain/rohitgossain.github.io/blob/master/B140%2B-%2BGossain%2C%2BRohit.pdf
 
 Delivering personalized experience by applying data science on digital data (Presentation at MeasureCamp SF,2017) -
 https://github.com/rohitgossain/rohitgossain.github.io/blob/master/MeasureCamp%20SF.pdf
+
+Overview about BI and Nearly Real Time Analysis (Big Data Innovation Conference, 2012) - https://github.com/rohitgossain/rohitgossain.github.io/blob/master/Operational%20Intelligence.pdf
+
 
 <br> Analysis with R Codes :- </br>
 
